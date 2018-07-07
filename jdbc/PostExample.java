@@ -46,7 +46,7 @@ public class PostExample {
 
 				// For updating
 				/*
-				 * String str1= "update student set name='naveen2' where name='venkatesh'";
+				 * String str1= "update student set name='naveen' where name='venkatesh'";
 				 * PreparedStatement pstmt2= con.prepareStatement(str1);
 				 * 
 				 * int resultUpdated=pstmt2.executeUpdate();
